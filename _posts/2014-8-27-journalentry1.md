@@ -14,6 +14,7 @@ The other task will be working with the cpcc students to create a great show. We
 I will try to keep my head down and remain optimistic. There is so much of my own work to focus on anyway. And it looks like the best way I can contribute is by supporting the team. There are plenty of unabashedly opportunistic people out there with very strong opinions. The emotionally intelligent thing to do is try to accomodate them without compromising too much of yourself.
 
 Things to do include:
+
 - redoing four or five strong pieces
 - print copy of something to leave behind for clients and agencies
 - finally deciding on a website
