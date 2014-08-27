@@ -21,5 +21,5 @@ Things to do include:
 - print copy of something to leave behind for clients and agencies
 - finally deciding on a website
 
-This weekend I took some time to look over the information on blackboard. I also quickly made this site using the jekyll blogging platform and github pages. I set up a disqus account so that people could comment and so far it seems to be working. Another awesome thing I discovered is **prose.io**. With prose.io I can edit static assets on github anywhere like a CMS. It supports markdown and seems to be very robust. Very cool.
+This weekend I took some time to look over the information on blackboard. I also quickly made this site using the jekyll blogging platform and github pages. I set up a disqus account so that people could comment and so far it seems to be working. Another awesome thing I discovered is *prose.io*. With *prose.io* I can edit static assets on github anywhere like a CMS. It supports markdown and seems to be very robust. Very cool.
 
