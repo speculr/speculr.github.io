@@ -20,7 +20,10 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $lato;
+  font-weight: 400;
   color: $darkGray;
+  line-height: 1.6;
+
 }
 
 .container {
@@ -52,16 +55,16 @@ h1 {
 
 h2 {
   font-weight: 300;
-  font-size: 24px;
+  font-size: 18px;
   color: $gray;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 10px;
   color: $gray;
 }
 
@@ -190,7 +193,7 @@ img {
 .site-name {
   padding-top:15px;
   margin: 0;
-  color: $gray;
+  color: $lightGray;
   cursor: pointer;
   font-family: $lato;
   font-weight: 700;
