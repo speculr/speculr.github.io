@@ -1,6 +1,7 @@
 ---
 layout: post
-title: a portfolio journal
+title: "a portfolio journal entry #1"
+published: true
 ---
 
 ## putting on a show
