@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## On her new book
